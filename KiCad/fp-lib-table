@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "minibadge_kicad")(type "KiCad")(uri "C:/Users/klipper/Downloads/minibadge-master/KiCAD/minibadge_kicad.pretty")(options "")(descr ""))
+)
